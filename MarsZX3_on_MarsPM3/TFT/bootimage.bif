@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+	[bootloader]/Data/Sven/Fpga/MarsZX3_EdkRefDesignTft_143/sw/workspace/FSBL_ZX3/Debug/FSBL_ZX3.elf
+	/Data/Sven/Fpga/MarsZX3_EdkRefDesignTft_143/ISE_143i/system_top.bit
+	/Data/Sven/Fpga/binaries/MarsZX3_on_MarsPM3/Tft/u-boot.elf
+}
