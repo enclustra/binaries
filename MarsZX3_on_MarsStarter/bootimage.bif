@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+	[bootloader]/Data/Sven/Fpga/binaries/MarsZX3_on_MarsStarter/FSBL_ZX3.elf
+	/Data/Sven/Fpga/binaries/MarsZX3_on_MarsStarter/MarsZX3_Starter.bit
+	/Data/Sven/Fpga/binaries/MarsZX3_on_MarsStarter/u-boot.elf
+}
